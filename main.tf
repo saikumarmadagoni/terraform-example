@@ -6,7 +6,7 @@ command = "echo hello world"
 
 }
 
-triggers {
+triggers ={
 
 id=timestamp()
 
